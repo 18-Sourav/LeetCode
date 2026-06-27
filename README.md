@@ -35,4 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/18-Sourav/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
