@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/18-Sourav/LeetCode/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->
