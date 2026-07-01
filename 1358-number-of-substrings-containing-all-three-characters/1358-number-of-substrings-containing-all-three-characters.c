@@ -17,6 +17,5 @@ int numberOfSubstrings(char* s)
             left++;
         }
     }
-
     return ans;
 }
