@@ -6,10 +6,8 @@ int mostFrequentEven(int* nums, int numsSize) {
         if (nums[i] % 2 == 0)
             freq[nums[i]]++;
     }
-
     int ans = -1;
     int maxFreq = 0;
-
     for (int i = 0; i <= 100000; i += 2)
     {
         if (freq[i] > maxFreq)
@@ -18,7 +16,5 @@ int mostFrequentEven(int* nums, int numsSize) {
             ans = i;
         }
     }
-
     return ans;
-
 }
