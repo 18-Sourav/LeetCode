@@ -1,12 +1,12 @@
 int fillCups(int* amount, int amountSize) {
-    int largest = -1;
+    int lar = -1;
     int sum = 0;
     for(int i=0;i<3;i++)
     {
         sum+=amount[i];
-        if(largest<amount[i])
-            largest = amount[i];
+        if(lar<amount[i])
+            lar = amount[i];
     }
-    int halfSum = (sum + 1) / 2;
-    return largest > halfSum ? largest : halfSum;
+    int h_Sum = (sum + 1) / 2;
+    return lar > h_Sum ? lar : h_Sum;
 }
