@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-Sourav/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/18-Sourav/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 <!---LeetCode Topics End-->
