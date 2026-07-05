@@ -9,10 +9,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-Sourav/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
