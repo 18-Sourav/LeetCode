@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/18-Sourav/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/18-Sourav/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/18-Sourav/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
