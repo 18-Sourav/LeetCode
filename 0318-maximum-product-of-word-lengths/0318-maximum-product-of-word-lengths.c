@@ -17,17 +17,9 @@ int maxProduct(char** words, int wordsSize) {
         size[i] = j;
     }
     for(int i=0;i<wordsSize-1;i++)
-    {
         for(int j=i+1;j<wordsSize;j++)
-        {
-            if((size[i]*size[j])<=max_prod)
-                    continue;
-            else if((arr[i]&arr[j])==0)
-                max_prod = size[i]*size[j];                 
-        }
-    }
+            if((arr[i]&arr[j])==0)
+                if((size[i]*size[j])>max_prod)                
+                    max_prod = size[i]*size[j];   
     return max_prod;
-
-
-
 }
