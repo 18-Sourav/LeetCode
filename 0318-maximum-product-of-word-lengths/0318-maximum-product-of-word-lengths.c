@@ -21,5 +21,6 @@ int maxProduct(char** words, int wordsSize) {
             if((arr[i]&arr[j])==0)
                 if((size[i]*size[j])>max_prod)                
                     max_prod = size[i]*size[j];   
+                    
     return max_prod;
 }
