@@ -2,7 +2,7 @@ int maxProduct(char** words, int wordsSize) {
     
     int max_prod = 0;
     unsigned int arr[wordsSize] ;
-    unsigned int size[wordsSize] ;
+    int size[wordsSize] ;
     for(int i=0;i<wordsSize;i++)
     {
         int j=0;
