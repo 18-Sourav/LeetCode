@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/18-Sourav/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/18-Sourav/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/18-Sourav/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/18-Sourav/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
