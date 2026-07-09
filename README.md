@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/18-Sourav/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/18-Sourav/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/18-Sourav/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/18-Sourav/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/18-Sourav/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
