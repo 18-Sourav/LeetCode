@@ -19,6 +19,7 @@ struct ListNode* deleteMiddle(struct ListNode* head) {
         slow = slow->next;
         fast = fast->next->next;
     }
-    prev->next = slow->next;    
+    prev->next = slow->next;  
+    
     return head;
 }
