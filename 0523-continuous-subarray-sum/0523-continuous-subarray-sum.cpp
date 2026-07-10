@@ -10,17 +10,14 @@ public:
         {
             sum+=nums[i];
             int remainder =  sum % k;
-
             if(mp.find(remainder) != mp.end()) //checking if this remainder is present in map or not
             {
                 if(i - mp[remainder]>=2)  // checking if the subarray length is greater than 1
                     return true;
             }
             else
-                mp[remainder] = i;     //If not found then adding our remainder in the map
-            
+                mp[remainder] = i;     //If not found then adding our remainder in the map 
         }
           return false;
     }
-  
 };
