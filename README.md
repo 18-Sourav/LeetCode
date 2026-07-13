@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2348-number-of-zero-filled-subarrays](https://github.com/18-Sourav/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 <!---LeetCode Topics End-->
