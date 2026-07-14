@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-Sourav/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/18-Sourav/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-Sourav/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
