@@ -106,12 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/18-Sourav/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/18-Sourav/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/18-Sourav/LeetCode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
