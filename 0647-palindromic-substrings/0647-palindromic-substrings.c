@@ -19,7 +19,6 @@ int countSubstrings(char *s)
             left--;
             right++;
         }
-
         // Even-length palindromes
         left = i;
         right = i + 1;
@@ -31,6 +30,5 @@ int countSubstrings(char *s)
             right++;
         }
     }
-
     return count;
 }
