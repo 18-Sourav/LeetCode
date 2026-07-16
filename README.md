@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/18-Sourav/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/18-Sourav/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-Sourav/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
