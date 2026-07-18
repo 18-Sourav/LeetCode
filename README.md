@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-Sourav/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/18-Sourav/LeetCode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
