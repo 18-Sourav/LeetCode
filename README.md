@@ -12,12 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/18-Sourav/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
