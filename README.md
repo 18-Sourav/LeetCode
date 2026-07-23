@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/18-Sourav/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/18-Sourav/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
