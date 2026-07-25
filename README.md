@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/18-Sourav/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
