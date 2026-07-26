@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,9 +148,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
