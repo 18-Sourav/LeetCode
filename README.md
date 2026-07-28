@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/18-Sourav/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/18-Sourav/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
