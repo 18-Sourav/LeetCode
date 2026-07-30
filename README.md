@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/18-Sourav/LeetCode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/18-Sourav/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
