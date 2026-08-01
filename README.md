@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,10 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/18-Sourav/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
