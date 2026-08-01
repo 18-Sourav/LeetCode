@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/18-Sourav/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0053-maximum-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +187,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
