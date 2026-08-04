@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1406-stone-game-iii](https://github.com/18-Sourav/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [3731-find-missing-elements](https://github.com/18-Sourav/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3731-find-missing-elements](https://github.com/18-Sourav/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/18-Sourav/LeetCode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3731-find-missing-elements](https://github.com/18-Sourav/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
