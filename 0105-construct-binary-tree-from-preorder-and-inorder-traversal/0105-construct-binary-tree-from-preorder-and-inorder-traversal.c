@@ -28,6 +28,7 @@ struct TreeNode* build(int *preorder,int *inorder,int left,int right)
         if(inorder[index] == value)
             break;
     }
+    
     root->left = build(preorder,inorder,left,index-1);
     root->right = build(preorder,inorder,index+1,right);
 
