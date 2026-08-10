@@ -14,34 +14,26 @@ struct ListNode* swapNodes(struct ListNode* head, int k) {
         temp=temp->next;
         size++;
     }
-
-    int *arr = malloc(sizeof(int)*size);
-    int i=0;
+    struct ListNode * start_node = NULL;
     temp = head;
-    while(temp!=NULL)
+    //finding the kth node from the starting 
+    for(int i=1;i<k;i++)
     {
-        arr[i] = temp->val;
-        temp=temp->next;
-        i++;
+        temp = temp->next;
     }
-
-    //swapping both the indexes
-    int value = arr[k-1];
-    arr[k-1] = arr[size-k];
-    arr[size-k] = value;
-
-    struct ListNode dummy;
-    dummy.next = NULL;
-    struct ListNode* curr = &dummy;
-    for(int i=0;i<size;i++)
+    start_node = temp;
+    temp = head;
+    struct ListNode * end_node = NULL;
+    //finding the kth element from the end
+    for(int i=0;i<size-k;i++)
     {
-        struct ListNode* node = (struct ListNode*)(malloc(sizeof(*node)));
-        node->val = arr[i];
-        node->next = NULL;
-
-        curr->next = node;
-        curr = curr->next;
+        temp = temp->next;
     }
-    free(arr);
-    return dummy.next;
+    end_node = temp;
+
+    int val = start_node->val;
+    start_node->val = end_node->val;
+    end_node->val = val;
+
+    return head;
 }
