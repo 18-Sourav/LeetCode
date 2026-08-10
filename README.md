@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/18-Sourav/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
