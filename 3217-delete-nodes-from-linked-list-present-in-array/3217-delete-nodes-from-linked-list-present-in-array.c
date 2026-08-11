@@ -7,7 +7,7 @@
  */
 struct ListNode* modifiedList(int* nums, int numsSize, struct ListNode* head) {
 
-    bool hash[1000001] ={0};
+    bool hash[100001] ={0};
     for(int i=0;i<numsSize;i++)
         hash[nums[i]] = 1;
 
