@@ -13,7 +13,6 @@ struct ListNode* modifiedList(int* nums, int numsSize, struct ListNode* head) {
 
     struct ListNode dummy;
     dummy.next = head;
-
     struct ListNode* curr = &dummy;
 
     while(curr->next!=NULL)
@@ -26,5 +25,4 @@ struct ListNode* modifiedList(int* nums, int numsSize, struct ListNode* head) {
             curr = curr->next;
     }
     return dummy.next; 
-
 }
