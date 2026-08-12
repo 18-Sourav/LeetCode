@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/18-Sourav/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,12 +106,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/18-Sourav/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/18-Sourav/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [0739-daily-temperatures](https://github.com/18-Sourav/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
