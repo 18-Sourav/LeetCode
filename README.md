@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/18-Sourav/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/18-Sourav/LeetCode/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/18-Sourav/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/18-Sourav/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
