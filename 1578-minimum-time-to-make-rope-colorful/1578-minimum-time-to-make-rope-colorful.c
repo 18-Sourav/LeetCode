@@ -1,7 +1,7 @@
 #include <string.h>
 
 int minCost(char* colors, int* neededTime, int neededTimeSize) {
-    int total_cost = 0;
+    int t_time = 0;
     
     for (int i = 1; i < neededTimeSize; i++) 
     {
@@ -9,13 +9,12 @@ int minCost(char* colors, int* neededTime, int neededTimeSize) {
         {
             if (neededTime[i] < neededTime[i - 1]) 
             {
-                total_cost += neededTime[i];
+                t_time += neededTime[i];
                 neededTime[i] = neededTime[i - 1]; 
             } 
             else 
-               total_cost += neededTime[i - 1];
+               t_time += neededTime[i - 1];
         }
-    }
-    
-    return total_cost;
+    }  
+    return t_time;
 }
