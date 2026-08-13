@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/18-Sourav/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/18-Sourav/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/18-Sourav/LeetCode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-Sourav/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/18-Sourav/LeetCode/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
