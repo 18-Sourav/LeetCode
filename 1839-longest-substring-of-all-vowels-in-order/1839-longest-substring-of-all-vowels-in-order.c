@@ -18,6 +18,7 @@ int longestBeautifulSubstring(char* word) {
 
         if(curr_len>max_len && vowel_cnt ==5)
             max_len = curr_len;
+           
         if(word[right])    
             right++;    
     }
