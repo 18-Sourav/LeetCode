@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/18-Sourav/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/18-Sourav/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/18-Sourav/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
