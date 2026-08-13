@@ -1,8 +1,7 @@
 char* getSmallestString(int n, int k) {
     int balance = k-n;
     char *res = (char*)malloc(sizeof(char)*n+1);
-    for(int i=0;i<n;i++)
-        res[i] = 'a';
+   
     int len = n;    
     while(n--)
     {
@@ -11,11 +10,13 @@ char* getSmallestString(int n, int k) {
             res[n] = 'a'+25;
             balance-=25;
         }
-        else
+        else if(balance>0)
         {
-            res[n] = res[n]+balance;
-            break;
+            res[n] = 'a' +balance;
+            balance = 0;
         }
+        else
+            res[n] = 'a';
     }
     res[len] ='\0';
     return res;
