@@ -47,6 +47,7 @@ void mergeSort(int* nums, int left, int right)
     //merging both the halves
     merge(nums,left,mid,right);
 } 
+
 int* sortArray(int* nums, int numsSize, int* returnSize) {
     
     *returnSize = numsSize;
