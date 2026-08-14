@@ -8,7 +8,6 @@
 struct ListNode* mergeNodes(struct ListNode* head) {
     struct ListNode dummy;
     dummy.next = head;
-    dummy.val = 0;
 
     struct ListNode* curr = &dummy;
     curr= curr->next->next;
