@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/18-Sourav/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/18-Sourav/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/18-Sourav/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
