@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [0912-sort-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0035-search-insert-position](https://github.com/18-Sourav/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/18-Sourav/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0035-search-insert-position](https://github.com/18-Sourav/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
