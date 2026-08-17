@@ -17,6 +17,7 @@ public:
                 left++;
             }
             int curr_len = right-left+1;
+            
             if(curr_len>max_len)
                 max_len = curr_len;   
         }
