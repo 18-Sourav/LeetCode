@@ -4,15 +4,14 @@ public:
         int max_len = 0;
         unordered_map<int,int>freq_map; //to store the elements and its count
 
-        int left=0,right=0,flag = 1;
+        int left=0,right=0;
         int size = nums.size();
 
         for(;right<size;right++)
         {
-            
             freq_map[nums[right]]++;
         
-            while(freq_map[nums[right]]>k && left<=right)
+            while(freq_map[nums[right]]>k)
             {
                 freq_map[nums[left]]--;
                 left++;
