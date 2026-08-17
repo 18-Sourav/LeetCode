@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0035-search-insert-position](https://github.com/18-Sourav/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/18-Sourav/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/18-Sourav/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/18-Sourav/LeetCode/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
