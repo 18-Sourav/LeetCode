@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/18-Sourav/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [0912-sort-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0035-search-insert-position](https://github.com/18-Sourav/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/18-Sourav/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/18-Sourav/LeetCode/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/18-Sourav/LeetCode/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/18-Sourav/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
