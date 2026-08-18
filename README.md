@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/18-Sourav/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/18-Sourav/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/18-Sourav/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/18-Sourav/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/18-Sourav/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/18-Sourav/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
