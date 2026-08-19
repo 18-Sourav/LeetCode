@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/18-Sourav/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/18-Sourav/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/18-Sourav/LeetCode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/18-Sourav/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
