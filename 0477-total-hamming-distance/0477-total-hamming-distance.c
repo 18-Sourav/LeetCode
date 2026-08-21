@@ -12,4 +12,5 @@ int totalHammingDistance(int* nums, int numsSize) {
         sum+= ones_cnt*zero_cnt;  //this multiplication gives the max pairs formed
     }
     return sum;
+    
 }
