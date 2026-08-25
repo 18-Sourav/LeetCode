@@ -3,7 +3,7 @@ int missingMultiple(int* nums, int numsSize, int k) {
     for(int i=0;i<numsSize;i++)
         arr[nums[i]]++;
     
-    int size = k*numsSize,j=k;
+    int j=k;
     for(;j<101;j+=k)
     {
         if(arr[j]==0)
