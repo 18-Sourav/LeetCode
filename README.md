@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0078-subsets](https://github.com/18-Sourav/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0477-total-hamming-distance](https://github.com/18-Sourav/LeetCode/tree/main/0477-total-hamming-distance/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/18-Sourav/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/18-Sourav/LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/18-Sourav/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/18-Sourav/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/18-Sourav/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
